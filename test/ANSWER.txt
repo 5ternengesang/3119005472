@@ -1,0 +1,1 @@
+C:\\Users\\Sternengesang\\orig.txt跟C:\\Users\\Sternengesang\\orig_0.8_add.txt的文章相似度为   82.8%
